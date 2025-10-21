@@ -1,4 +1,4 @@
-# Darcula Dark Theme
+# Darcula Dark Theme (Okkano version)
 
 A dark theme for Zed editor inspired by IntelliJ IDEA's Darcula theme.
 
